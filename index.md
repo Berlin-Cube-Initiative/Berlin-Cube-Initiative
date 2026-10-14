@@ -1,3 +1,5 @@
+# Berlin Cube Initiative
+
 ## Date and place
 - Date: to be announced (Saturday and Sunday, 9:00 to 20:00)
 - Location: to be announced, Berlin
