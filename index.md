@@ -2,7 +2,7 @@
 
 Welcome! Join us for a competitive Vintage Cube team draft: 8 teams of 3 players, two days, four drafts, lots of great Magic. ⚔️
 
-[Register your team 🚀](#){: .btn}
+[Register your team 🚀](https://forms.gle/coQFSiNDdFchzTko7){: .btn}
 
 <!-- TODO: replace the # above with the Google Forms link before the announcement -->
 
@@ -22,7 +22,8 @@ Welcome! Join us for a competitive Vintage Cube team draft: 8 teams of 3 players
 
 ## 🎲 Format
 
-- **4 rounds, 1 round = 1 draft.** Rounds 1 to 3 are Swiss, round 4 is the final round.
+- **4 rounds. 1 round = 1 draft.
+- ** Rounds 1 to 3 are Swiss, round 4 is the final round.
 - **Team draft:** two teams per pod. Every player plays all three opponents, so each draft has 9 matches. The first team to win 5 matches wins the draft.
 - **All matches are best of three.**
 - **Cubes:** LSV Power Max Cube and LSV Cube.
@@ -54,7 +55,7 @@ If teams have the same number of draft wins, the order is:
 | Time | Saturday | Sunday |
 |---|---|---|
 | 9:00 | Check-in | Doors open |
-| 9:50 | Welcome and rules | Short briefing |
+| 9:45 | Welcome and rules | Short briefing |
 | 10:00 to 14:00 | Round 1 | Round 3 |
 | 14:00 to 14:45 | Lunch 🥪 | Lunch 🥪 |
 | 15:00 to 19:00 | Round 2 | Round 4 (final round) |
