@@ -7,6 +7,13 @@ permalink: /rules/
 
 [← Back to the event page]({{ '/' | relative_url }})
 
+## ⚔️ Draft and matches
+
+- Two teams per pod. Every player plays all three opponents, so a draft has 9 matches.
+- The first team to win 5 matches wins the draft.
+- All matches are best of three.
+- Please play all 9 matches in every draft, even after a team has reached 5 wins. Individual match wins count for the tiebreakers.
+
 ## 🤝 Rules enforcement
 
 This is a friendly community event, so there are no official judges. We play at **Regular Rules Enforcement Level**.
@@ -33,13 +40,6 @@ Questions should be specific, brief, used sparingly and answered quickly. Good e
 - "How does this interaction work?"
 
 They are not meant to turn into a team discussion during a match. Normally, ask only your adjacent teammate. The exception is a rules question that this teammate cannot answer well.
-
-## ⚔️ Draft and matches
-
-- Two teams per pod. Every player plays all three opponents, so a draft has 9 matches.
-- The first team to win 5 matches wins the draft.
-- All matches are best of three.
-- Please play all 9 matches in every draft, even after a team has reached 5 wins. Individual match wins count for the tiebreakers.
 
 ## 🛠️ Issues
 
