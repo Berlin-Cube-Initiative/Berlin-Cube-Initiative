@@ -103,4 +103,17 @@ Contact link to follow.
 ## 🔒 Privacy
 
 We store names and email addresses only to organize this event.
-<!-- TODO: add Impressum and privacy notice links -->
+
+## Impressum
+
+Information according to § 5 DDG
+
+Berlin Cube Initiative
+Sven Lutz, Joaco Ober
+Contact: [email address]
+
+Responsible for content according to § 18 (2) MStV:
+Sven Lutz, address as above
+
+This is a non-commercial community event. Entry fees are used entirely for
+prizes and souvenirs for participants.
