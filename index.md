@@ -68,13 +68,12 @@ Please arrive on time, especially on Saturday for check-in. The schedule is appr
 1. **Register your team** with the form above. One person per team, the captain, fills it in. Registration closes on **21 November 2026**. If we are full, you go on the waitlist.
 2. **Every player needs a GuildGate account.** We run the tournament there.
 3. **Pay 10 EUR per player** (30 EUR per team) by **21 November 2026**. The captain pays once for the whole team. We will send payment details by email after you register.
-4. **Final information** (venue details, cube lists, pairings for round 1) goes out on 28 November 2026.
 
 <!-- TODO: add the payment method(s) once decided, and the cube lists when final -->
 
 ## 🏆 Prizes
 
-There are no cash prizes. The entry fees go back into the event: physical prizes for the top 3 teams, a small souvenir for every player and a wandering prize that travels with the winners.
+We're still putting the final touches on the prize table, but we can tell you this much: we're cooking something good. 🍳 There will be no cash prizes. Instead, expect real, physical prizes for the top 3 teams and a little souvenir for every player. All entry fees go straight back into the event. We'll reveal more closer to the day, so stay tuned!
 
 ## 👑 Captains
 
@@ -110,7 +109,10 @@ We store names and email addresses only to organize this event.
 Information according to § 5 DDG
 
 Berlin Cube Initiative
-Sven Lutz, Joaco Ober
+Sven Lutz
+Bülowstraße 51
+10783 Berlin
+Germany
 Contact: [email address]
 
 Responsible for content according to § 18 (2) MStV:
