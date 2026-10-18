@@ -9,6 +9,7 @@ permalink: /rules/
 
 ## ⚔️ Draft and matches
 
+- The Format is [Team Draft]([url](https://magic.wizards.com/en/formats/team-booster-draft)).
 - Two teams per pod. Every player plays all three opponents, so a draft has 9 matches.
 - The first team to win 5 matches wins the draft.
 - All matches are best of three.
