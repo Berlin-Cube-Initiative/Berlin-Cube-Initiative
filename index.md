@@ -37,14 +37,6 @@ Please arrive on time, especially on Saturday for check-in. The schedule is appr
 - **Cubes:** All drafts are done with the [LSV Power Max Cube]([url](https://cubecobra.com/cube/list/PowerLSV)).
 - Every round starts with about 80 minutes of drafting and deck building, followed by the matches.
 
-### ⚖️ Tiebreakers
-
-If teams have the same number of draft wins, the order is:
-
-1. Draft wins
-2. Total individual match wins in rounds 1 to 3
-3. Game wins
-
 ## 🏆 Prizes
 
 There will be no cash prizes. Instead, expect real, physical prizes for the top 3 teams and a little souvenir for every player. On top of that, there will be a raffle 🎟️ and a set of achievements to go after, so you don't need to win the whole thing to take something home. All entry fees go straight back into the event. We'll reveal more closer to the day, so stay tuned!
