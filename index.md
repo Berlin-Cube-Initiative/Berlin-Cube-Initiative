@@ -27,7 +27,7 @@ This event is for everyone, whatever your gender, sexuality, background, age, ab
 
 **House rules:** be respectful, use the name and pronouns people give you, keep trash talk friendly and help newcomers. Harassment, discrimination and unwanted attention are not tolerated, at the venue or on Discord.
 
-**If something happens,** tell any organizer or email berlin.cube.initiative@gmail.com. We take every report seriously and handle it discreetly. We may talk to the people involved, change a seat or pairing, or ask someone to leave without a refund.
+**If something happened,** or you feel unsafe or uncomfortable, tell any organizer or email berlin.cube.initiative@gmail.com. We take every report seriously and handle it discreetly. We may talk to the people involved, change a seat or pairing, or ask someone to leave without a refund.
 
 Need anything to make the weekend work for you? Email us and we will do our best.
 
