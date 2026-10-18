@@ -18,7 +18,7 @@ Welcome! Join us for a competitive Vintage Cube team draft: 8 teams of 3 players
 | **Registration deadline** | 21 November 2026 (waitlist if we are full) |
 | **Software** | [GuildGate](https://guildgate.app/), every player needs an account |
 
-Please arrive on time, especially on Saturday for check-in. The schedule is approximate.
+Please arrive on time, especially on Saturday for check-in.
 
 ## 📍 Getting there
 
@@ -30,12 +30,14 @@ Please arrive on time, especially on Saturday for check-in. The schedule is appr
 
 ## 🎲 Format
 
-- **4 rounds. 1 round = 1 draft.
+- **4 rounds.**
+- 1 round = 1 draft.
 - ** Rounds 1 to 3 are Swiss, round 4 is the final round.
 - **Team draft:** two teams per pod. Every player plays all three opponents, so each draft has 9 matches. The first team to win 5 matches wins the draft.
 - **All matches are best of three.**
 - **Cubes:** All drafts are done with the [LSV Power Max Cube]([url](https://cubecobra.com/cube/list/PowerLSV)).
 - Every round starts with about 80 minutes of drafting and deck building, followed by the matches.
+- For everything else, see [tournament rules]({{ '/rules/' | relative_url }}).
 
 ## 🏆 Prizes
 
