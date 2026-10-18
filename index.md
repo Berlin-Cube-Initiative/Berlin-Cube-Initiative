@@ -1,5 +1,3 @@
-# Cube Initiative Challenge
-
 Welcome! Join us for a competitive Vintage Cube team draft: 8 teams of 3 players, two days, four drafts, lots of great Magic. ⚔️
 
 [Register your team 🚀](https://forms.gle/coQFSiNDdFchzTko7){: .btn}
