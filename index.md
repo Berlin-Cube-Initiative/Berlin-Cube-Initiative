@@ -1,6 +1,6 @@
 Welcome! Join us for a competitive Vintage Cube team draft: 8 teams of 3 players, two days, four drafts, lots of great Magic. ⚔️
 
-[Register your team 🚀](https://forms.gle/coQFSiNDdFchzTko7){: .btn}
+[Register your team 🐉](https://forms.gle/coQFSiNDdFchzTko7){: .btn}
 
 💬 Questions or just want to chat about the event? [Join us on Discord](https://discord.gg/your-general-chat-link){:target="_blank" rel="noopener"}
 
