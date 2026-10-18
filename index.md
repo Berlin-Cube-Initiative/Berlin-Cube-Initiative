@@ -8,8 +8,8 @@ Welcome! Join us for a competitive Vintage Cube team draft: 8 teams of 3 players
 
 ## 📅 At a glance
 
-| | |
-|---|---|
+| | | |
+|---|---|---|
 | **Event** | Cube Initiative Challenge |
 | **Date** | Saturday 5 and Sunday 6 December 2026 |
 | **Hours** | 8:30 registration on Saturday, 9:00 start on both days |
@@ -42,11 +42,14 @@ Please arrive on time, especially on Saturday for check-in.
 
 ## 🏆 Prizes
 
-There will be no cash prizes. Instead, expect real, physical prizes for the top 3 teams and a little souvenir for every player. On top of that, there will be a raffle 🎟️ and a set of achievements to go after, so you don't need to win the whole thing to take something home. All entry fees go straight back into the event. We'll reveal more closer to the day, so stay tuned!
+There will be no cash prizes. Instead, expect real, physical prizes for the top 3 teams and a little souvenir for every player. On top of that, there will be a raffle 🎟️ and a set of achievem[...]
 
 ## ✍️ Registration and payment
 
 1. **Register your team** with the form above. One person per team, the captain, fills it in. Registration closes on **21 November 2026**. If we are full, you go on the waitlist.
+
+By registering, you agree to our [privacy notice]({{ '/privacy/' | relative_url }}).
+
 2. **Every player needs a GuildGate account.** We run the tournament there.
 3. There are **3 different pricing tiers** for each player: 10 € regular entry, 5 € with a student discount, 15 € supporter tier if you want to support this and our next event
 4. The **captain pays once for the whole team in cash**, either on the event date or in advance at a cube meetup in Berlin.
@@ -63,7 +66,7 @@ Each team has a captain. The captain makes sure that:
 ## ❓ FAQ
 
 **🙋 I don't have a team. Is that a problem?**
-Not at all! Join our Discord and head to the team-finding channel to meet other players looking for teammates: [Find a team on Discord](https://discord.gg/your-team-finding-link){:target="_blank" rel="noopener"}. Once your team of 3 is set, one person registers as captain.
+Not at all! Join our Discord and head to the team-finding channel to meet other players looking for teammates: [Find a team on Discord](https://discord.gg/your-team-finding-link){:target="_blank" [...]
 
 **🚪 What if I need to cancel?**
 Please email us as soon as possible at berlin.cube.initiative@gmail.com. Your spot can then go to a team on the waitlist.
@@ -81,35 +84,6 @@ See the [tournament rules]({{ '/rules/' | relative_url }}).
 **💬 Who do I ask if something is unclear?**
 Ask in our [event channel on Discord](https://discord.gg/your-general-chat-link){:target="_blank" rel="noopener"}, or email us at [email address].
 
-## 🔒 Privacy
-
-**Who is responsible:** Sven Lutz, contact: berlin.cube.initiative@gmail.com (address see Impressum).
-
-**What we collect:** When you register, we collect the details you enter in the form: team name, player names, the captain's Discord handle or phone number, city, email address and any notes you add. Captains: please tell your teammates that their names are passed on to us.
-
-**Why:** Only to organize this event, such as confirming spots, managing the waitlist and contacting you with event information. The legal basis is your consent (Art. 6 (1) a GDPR), which you give with the checkbox in the form. You can withdraw it at any time by email.
-
-**Where it is stored:** In Google Forms and Google Sheets. Only the organizers have access. Google may process data outside the EU, including in the USA.
-
-**How long:** We delete all registration data [30 days] after the event.
-
-**Other services:** You create your own GuildGate account, and Discord and GuildGate have their own privacy policies. This website is hosted on GitHub Pages, which may log visitors' IP addresses for technical reasons.
-
-**Your rights:** You can ask us for access to your data, correction, deletion or restriction of processing, and you can object to processing. You also have the right to complain to a data protection authority, in Berlin the Berliner Beauftragte für Datenschutz und Informationsfreiheit.
-
-## Impressum
-
-Information according to § 5 DDG
-
-Berlin Cube Initiative
-Sven Lutz
-Bülowstraße 51
-10783 Berlin
-Germany
-Contact: berlin.cube.initiative@gmail.com
-
-Responsible for content according to § 18 (2) MStV:
-Sven Lutz, address as above
-
-This is a non-commercial community event. Entry fees are used entirely for
-prizes and souvenirs for participants.
+<p style="text-align:center; font-size:0.9em; margin-top:3rem;">
+  <a href="{{ '/privacy/' | relative_url }}">Privacy</a> · <a href="{{ '/impressum/' | relative_url }}">Impressum</a>
+</p>

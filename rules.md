@@ -19,11 +19,11 @@ permalink: /rules/
 
 This is a friendly community event, so there are no official judges. We play at **Regular Rules Enforcement Level**.
 
-If a rules question comes up that nobody on your team can answer, the organizers can help with a ruling based on the rules information available online, as long as they are not your opponents. If not, someone from another table may be able to help.
+If a rules question comes up that nobody on your team can answer, the organizers can help with a ruling based on the rules information available online, as long as they are not your opponents. If [...]
 
 ## 📋 Open decklists
 
-We use open decklists, which means your opponents can see what you played. Before each match, players look at their opponents' lists and return them afterwards. How exactly you submit your list is still being finalized.
+We use open decklists, which means your opponents can see what you played. Before each match, players look at their opponents' lists and return them afterwards. How exactly you submit your list is[...]
 
 <!-- TODO: update with the final submission method -->
 
@@ -31,7 +31,7 @@ We use open decklists, which means your opponents can see what you played. Befor
 
 Players may ask their teammates for advice or rules help, but please keep it limited so the round does not slow down.
 
-**Only help when asked.** Don't interrupt a teammate's game, point out plays, suggest actions or give advice nobody asked for. In short: ask if you need help, answer if you are asked, otherwise let your teammates play their own games.
+**Only help when asked.** Don't interrupt a teammate's game, point out plays, suggest actions or give advice nobody asked for. In short: ask if you need help, answer if you are asked, otherwise le[...]
 
 Questions should be specific, brief, used sparingly and answered quickly. Good examples:
 
@@ -53,3 +53,7 @@ If teams have the same number of draft wins, the order is:
 ## 🛠️ Issues
 
 Tell an organizer early about any logistical or technical problem, for example with GuildGate or a missing player.
+
+<p style="text-align:center; font-size:0.9em; margin-top:3rem;">
+  <a href="{{ '/privacy/' | relative_url }}">Privacy</a> · <a href="{{ '/impressum/' | relative_url }}">Impressum</a>
+</p>
