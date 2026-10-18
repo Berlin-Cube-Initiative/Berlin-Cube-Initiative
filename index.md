@@ -2,7 +2,7 @@
 
 Welcome! Join us for a competitive Vintage Cube team draft: 8 teams of 3 players, two days, four drafts, lots of great Magic. ⚔️
 
-<img class="flyer" src="{{ '/assets/flyer.jpg' | relative_url }}" alt="Flyer for the Berlin Cube Initiative Team Draft Challenge #2, Vintage Cube, 5 and 6 December, Hedwig Dohm Haus, Ziegelstr. 4, 10117 Berlin.">
+<img class="flyer" src="{{ '/assets/banner' | relative_url }}" alt="Flyer for the Berlin Cube Initiative Team Draft Challenge #2, Vintage Cube, 5 and 6 December, Hedwig Dohm Haus, Ziegelstr. 4, 10117 Berlin.">
 
 [Register your team 🐉](https://forms.gle/coQFSiNDdFchzTko7){: .btn target="_blank" rel="noopener"}
 
