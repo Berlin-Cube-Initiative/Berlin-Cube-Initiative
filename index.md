@@ -1,6 +1,8 @@
+# Cube Initiative Challenge
+
 Welcome! Join us for a competitive Vintage Cube team draft: 8 teams of 3 players, two days, four drafts, lots of great Magic. ⚔️
 
-[Register your team 🐉](https://forms.gle/coQFSiNDdFchzTko7){: .btn}
+[Register your team 🐉](https://forms.gle/coQFSiNDdFchzTko7){: .btn target="_blank" rel="noopener"}
 
 💬 Questions or just want to chat about the event? [Join us on Discord](https://discord.gg/your-general-chat-link){:target="_blank" rel="noopener"}
 
@@ -35,15 +37,14 @@ Please arrive on time, especially on Saturday for check-in.
 - **Cubes:** All drafts are done with the [LSV Power Max Cube](https://cubecobra.com/cube/list/PowerLSV).
 - Every round starts with about 80 minutes of drafting and deck building, followed by the matches.
 - For everything else, see [tournament rules]({{ '/rules/' | relative_url }}).
-
-  
+- 
 ## 🏆 Prizes
 
-There will be no cash prizes. Instead, expect real, physical prizes for the top 3 teams and a little souvenir for every player. On top of that, there will be a raffle 🎟️ and a set of achievements to go after, so you don't need to win the whole thing to take something home. All entry fees go straight back into the event. We'll reveal more closer to the day, so stay tuned!
+There will be no cash prizes. Instead, expect real, physical prizes for the top 3 teams and a little souvenir for every player. On top of that, there will be a raffle 🎟️ and a set of achievements
 
 ## ✍️ Registration and payment
 
-1. **Register your team** with the form above. One person per team, the captain, fills it in. Registration closes on **21 November 2026**. If we are full, you go on the waitlist. By registering, you agree to our [privacy notice]({{ '/privacy/' | relative_url }}).
+1. **Register your team** with the form above. One person per team, the captain, fills it in. Registration closes on **21 November 2026**. If we are full, you go on the waitlist. By registering, you are confirming participation and agreement with the event rules.
 2. **Every player needs a GuildGate account.** We run the tournament there.
 3. There are **3 pricing tiers** for each player: 10 EUR regular entry, 5 EUR with a student discount and 15 EUR supporter tier if you want to support this and our next event.
 4. The **captain pays once for the whole team in cash**, either on the event date or in advance at a cube meetup in Berlin.
@@ -60,7 +61,7 @@ Each team has a captain. The captain makes sure that:
 ## ❓ FAQ
 
 **🙋 I don't have a team. Is that a problem?**
-Not at all! Join our Discord and head to the team-finding channel to meet other players looking for teammates: [Find a team on Discord](https://discord.gg/your-team-finding-link){:target="_blank" [...]
+Not at all! Join our Discord and head to the team-finding channel to meet other players looking for teammates: [Find a team on Discord](https://discord.gg/your-team-finding-link){:target="_blank" rel="noopener"}
 
 **🚪 What if I need to cancel?**
 Please email us as soon as possible at berlin.cube.initiative@gmail.com. Your spot can then go to a team on the waitlist.
