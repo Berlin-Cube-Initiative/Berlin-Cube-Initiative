@@ -1,4 +1,4 @@
-# Berlin Cube Initiative
+# Berlin Cube Initiative Challenge
 
 Welcome! Join us for a competitive Vintage Cube team draft: 8 teams of 3 players, two days, four drafts, lots of great Magic. ⚔️
 
@@ -10,6 +10,7 @@ Welcome! Join us for a competitive Vintage Cube team draft: 8 teams of 3 players
 
 | | |
 |---|---|
+| **Event** | Cube Initiative Challenge |
 | **Date** | Saturday 5 and Sunday 6 December 2026 |
 | **Hours** | 8:30 registration on Saturday, 9:00 start on both days |
 | **Location** | Hedwig Dohm Haus, Ziegelstr. 4, 10117 Berlin |
