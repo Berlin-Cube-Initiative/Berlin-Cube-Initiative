@@ -18,7 +18,13 @@ Welcome! Join us for a competitive Vintage Cube team draft: 8 teams of 3 players
 | **Registration deadline** | 21 November 2026 |
 | **Software** | [GuildGate](https://guildgate.app/) |
 
-<!-- TODO: add arrival details (public transport, entrance, room) -->
+## 📍 Getting there
+
+**Hedwig Dohm Haus, Ziegelstr. 4, 10117 Berlin**
+
+[Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Hedwig+Dohm+Haus+Ziegelstr.+4+10117+Berlin)
+
+[![Map of the venue]({{ '/assets/map.png' | relative_url }})]({{ '/assets/map.png' | relative_url }})
 
 ## 🎲 Format
 
