@@ -23,9 +23,9 @@ If a rules question comes up that nobody on your team can answer, the organizers
 
 ## 📋 Open decklists
 
-We use open decklists. Before each match, players exchange decklists with their opponents. You may look at your opponent's list between games and return it after the match. Please write card names clearly and in English, since players have different native languages.
+We use open decklists, which means your opponents can see what you played. Before each match, players look at their opponents' lists and return them afterwards. How exactly you submit your list is still being finalized.
 
-<!-- TODO: confirm open decklists and hand-written registration still apply with the new ~80 minute draft and deck building time -->
+<!-- TODO: update with the final submission method -->
 
 ## 🗣️ Team communication during matches
 
