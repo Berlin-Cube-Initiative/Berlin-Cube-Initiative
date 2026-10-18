@@ -2,6 +2,8 @@
 
 Welcome! Join us for a competitive Vintage Cube team draft: 8 teams of 3 players, two days, four drafts, lots of great Magic. ⚔️
 
+<img class="flyer" src="{{ '/assets/flyer.jpg' | relative_url }}" alt="Flyer for the Berlin Cube Initiative Team Draft Challenge #2, Vintage Cube, 5 and 6 December, Hedwig Dohm Haus, Ziegelstr. 4, 10117 Berlin.">
+
 [Register your team 🐉](https://forms.gle/coQFSiNDdFchzTko7){: .btn target="_blank" rel="noopener"}
 
 💬 Questions or just want to chat about the event? [Join us on Discord](https://discord.gg/your-general-chat-link){:target="_blank" rel="noopener"}
@@ -9,7 +11,7 @@ Welcome! Join us for a competitive Vintage Cube team draft: 8 teams of 3 players
 ## 📅 At a glance
 
 | | |
-|---|---|---|
+|---|---|
 | **Event** | Cube Initiative Challenge |
 | **Date** | Saturday 5 and Sunday 6 December 2026 |
 | **Hours** | 8:30 registration on Saturday, 9:00 start on both days |
@@ -40,11 +42,11 @@ Please arrive on time, especially on Saturday for check-in.
 - 
 ## 🏆 Prizes
 
-There will be no cash prizes. Instead, expect real, physical prizes for the top 3 teams and a little souvenir for every player. On top of that, there will be a raffle 🎟️ and a set of achievements
+There will be no cash prizes. Instead, expect real, physical prizes for the top 3 teams and a little souvenir for every player. On top of that, there will be a raffle 🎟️ and a set of achievements or event goodies.
 
 ## ✍️ Registration and payment
 
-1. **Register your team** with the form above. One person per team, the captain, fills it in. Registration closes on **21 November 2026**. If we are full, you go on the waitlist. By registering, you are confirming participation and agreement with the event rules.
+1. **Register your team** with the form above. One person per team, the captain, fills it in. Registration closes on **21 November 2026**. If we are full, you go on the waitlist. By registering, you agree to the event rules and the privacy notice.
 2. **Every player needs a GuildGate account.** We run the tournament there.
 3. There are **3 pricing tiers** for each player: 10 EUR regular entry, 5 EUR with a student discount and 15 EUR supporter tier if you want to support this and our next event.
 4. The **captain pays once for the whole team in cash**, either on the event date or in advance at a cube meetup in Berlin.
