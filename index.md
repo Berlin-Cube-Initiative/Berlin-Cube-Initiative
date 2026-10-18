@@ -24,7 +24,7 @@ Welcome! Join us for a competitive Vintage Cube team draft: 8 teams of 3 players
 
 [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Hedwig+Dohm+Haus+Ziegelstr.+4+10117+Berlin)
 
-[![Map of the venue]({{ '/assets/map.png' | relative_url }})]({{ '/assets/map.png' | relative_url }})
+[![Map of the venue](map.png)](map.png)
 
 ## 🎲 Format
 
