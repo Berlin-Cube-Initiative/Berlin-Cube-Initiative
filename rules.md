@@ -42,6 +42,14 @@ Questions should be specific, brief, used sparingly and answered quickly. Good e
 
 They are not meant to turn into a team discussion during a match. Normally, ask only your adjacent teammate. The exception is a rules question that this teammate cannot answer well.
 
+### ⚖️ Tiebreakers
+
+If teams have the same number of draft wins, the order is:
+
+1. Draft wins
+2. Total individual match wins in rounds 1 to 3
+3. Game wins
+
 ## 🛠️ Issues
 
 Tell an organizer early about any logistical or technical problem, for example with GuildGate or a missing player.
