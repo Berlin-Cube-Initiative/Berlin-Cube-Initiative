@@ -1,10 +1,10 @@
-# Cube Initiative Challenge
+# Cube Initiative Challenge #2
 
 Welcome! Join us for a competitive Vintage Cube team draft: 8 teams of 3 players, two days, four drafts, lots of great Magic. ⚔️
 
 [Register your team 🐉](https://forms.gle/coQFSiNDdFchzTko7){: .btn target="_blank" rel="noopener"}
 
-💬 Questions or just want to chat about the event? [Join us on Discord](https://discord.gg/your-general-chat-link){:target="_blank" rel="noopener"}
+💬 Questions or just want to chat about the event? [Join us on Discord](https://github.com/Berlin-Cube-Initiative/Berlin-Cube-Initiative/blob/main/assets/Banner.jpg){:target="_blank" rel="noopener"}
 
 ## 📅 At a glance
 
@@ -61,7 +61,7 @@ Each team has a captain. The captain makes sure that:
 ## ❓ FAQ
 
 **🙋 I don't have a team. Is that a problem?**
-Not at all! Join our Discord and head to the team-finding channel to meet other players looking for teammates: [Find a team on Discord](https://discord.gg/your-team-finding-link){:target="_blank" rel="noopener"}
+Not at all! Join our Discord and head to the team-finding channel to meet other players looking for teammates: [Find a team on Discord](https://discord.gg/your-team-finding-link){:target="[_blank](https://github.com/Berlin-Cube-Initiative/Berlin-Cube-Initiative/blob/main/assets/Banner.jpg)"}
 
 **🚪 What if I need to cancel?**
 Please email us as soon as possible at berlin.cube.initiative@gmail.com. Your spot can then go to a team on the waitlist.
