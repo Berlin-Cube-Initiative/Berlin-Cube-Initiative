@@ -3,30 +3,175 @@
 
 @import "{{ site.theme }}";
 
-/* more conservative: only hide GitHub links inside header elements */
-header a[href*="github.com"],
-.site-header a[href*="github.com"],
-.topbar a[href*="github.com"] {
-  display: none !important;
+// Berlin Cube Initiative — CI stylesheet
+// Colors (from the flyer):
+$green: #77FF00;
+$white: #FFFFFF;
+$light-gray: #D9D9D9;
+$dark-gray: #2D2D2D;
+$black: #000000;
+
+// Typography
+$base-font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif;
+$heading-font-weight: 700;
+$body-font-weight: 400;
+
+html, body {
+  font-family: $base-font-family;
+  color: $dark-gray;
+  background: $white;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
 
-/*
-.page-header .btn {
-  display: inline-block !important;
-  background: #1f6feb;
-  color: #fff;
-  padding: 0.75rem 1.1rem;
+// Site header
+.site-header,
+header.site-header,
+.header {
+  background: linear-gradient(180deg, darken($white, 3%), $white);
+  border-bottom: 1px solid $light-gray;
+}
+
+.site-header .container,
+header .container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+  padding: 1rem 0.5rem;
+}
+
+.site-title a,
+.header a.brand {
+  color: $black;
+  font-weight: $heading-font-weight;
+  letter-spacing: 0.2px;
+  text-decoration: none;
+}
+
+// Top nav / buttons in the header
+.page-header .btn,
+.header .btn,
+header .btn,
+.btn-primary {
+  display: inline-block;
+  background: $green;
+  color: $black;
+  padding: 0.6rem 1rem;
   border-radius: 6px;
   text-decoration: none;
   font-weight: 600;
+  border: 2px solid rgba(0,0,0,0.06);
+  box-shadow: 0 1px 0 rgba(0,0,0,0.04);
 }
 
- */
+.page-header .btn:hover,
+.page-header .btn:focus,
+.btn-primary:hover {
+  background: mix($green, $dark-gray, 6%);
+  text-decoration: none;
+}
 
-//.page-header .btn:hover,
-//.page-header .btn:focus,
-//.page-header .btn:active {
-//  color: #fff;
-//  text-decoration: none;
-//  background: #1859c9;
-//}
+// Secondary buttons
+.btn-secondary,
+.button.secondary {
+  background: $light-gray;
+  color: $dark-gray;
+  border-radius: 6px;
+  padding: 0.45rem 0.9rem;
+  text-decoration: none;
+}
+
+// Links and accents
+a {
+  color: $green;
+  text-decoration: underline;
+}
+
+a:hover {
+  color: darken($green, 6%);
+}
+
+// Cards, panels
+.card,
+.panel,
+.article-card,
+.section-card {
+  background: $white;
+  border: 1px solid $light-gray;
+  border-radius: 10px;
+  padding: 1rem;
+  box-shadow: 0 6px 18px rgba(0,0,0,0.04);
+}
+
+/* Table styling for the "At a glance" table */
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+td, th {
+  padding: 0.5rem 0.75rem;
+  vertical-align: top;
+}
+
+table tr + tr td {
+  border-top: 1px dashed $light-gray;
+}
+
+/* Footer */
+.site-footer,
+footer.site-footer {
+  background: $dark-gray;
+  color: $white;
+  padding: 1.25rem 0.5rem;
+  border-top: 4px solid $green;
+}
+
+.site-footer a,
+footer.site-footer a {
+  color: $white;
+  opacity: 0.95;
+  text-decoration: none;
+}
+
+.site-footer a:hover {
+  text-decoration: underline;
+}
+
+.site-footer p {
+  margin: 0.25rem 0;
+}
+
+// Hide the "X is maintained by X" line injected by the theme
+// (keeps the GitHub Pages generation line visible)
+.site-footer p:first-child {
+  display: none !important;
+}
+
+// Utilities
+.container {
+  max-width: 960px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+
+h1, h2, h3, h4 {
+  color: $black;
+  font-weight: $heading-font-weight;
+}
+
+small, .muted {
+  color: lighten($dark-gray, 20%);
+}
+
+// Responsive tweaks
+@media (max-width: 640px) {
+  .site-header .container { padding: 0.8rem; }
+  .page-header .btn { padding: 0.5rem 0.8rem; }
+}
+
+// Accessibility note: the bright green is high-contrast on white but may be hard to read
+// on very small text — keep key text in dark-gray or black and use green for accents only.
