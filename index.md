@@ -14,7 +14,7 @@ Welcome! Join us for a competitive Vintage Cube team draft: 8 teams of 3 players
 | **Hours** | 8:30 registration on Saturday, 9:00 start on both days |
 | **Location** | Hedwig Dohm Haus, Ziegelstr. 4, 10117 Berlin |
 | **Teams** | 8 teams of 3 players (24 players) |
-| **Entry fee** | 5 EUR student, 10 EUR regular or 15 EUR supporter per player. The captain pays in cash for the whole team |
+| **Entry fee** | 5 EUR student, 10 EUR regular or 15 EUR supporter per player |
 | **Registration deadline** | 21 November 2026 (waitlist if we are full) |
 | **Software** | [GuildGate](https://guildgate.app/), every player needs an account |
 
