@@ -4,7 +4,7 @@ Welcome! Join us for a competitive Vintage Cube team draft: 8 teams of 3 players
 
 [Register your team 🐉](https://forms.gle/coQFSiNDdFchzTko7){: .btn target="_blank" rel="noopener"}
 
-💬 Questions or just want to chat about the event? [Join us on Discord](https://github.com/Berlin-Cube-Initiative/Berlin-Cube-Initiative/blob/main/assets/Banner.jpg){:target="_blank" rel="noopener"}
+💬 Questions or just want to chat about the event? [Join us on Discord](https://discord.gg/X9w7s2Vv9J){:target="_blank" rel="noopener"}
 
 ## 📅 At a glance
 
