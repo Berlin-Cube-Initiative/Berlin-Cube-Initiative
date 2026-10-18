@@ -1,4 +1,4 @@
-# Berlin Cube Initiative Challenge
+# Cube Initiative Challenge
 
 Welcome! Join us for a competitive Vintage Cube team draft: 8 teams of 3 players, two days, four drafts, lots of great Magic. ⚔️
 
@@ -8,7 +8,7 @@ Welcome! Join us for a competitive Vintage Cube team draft: 8 teams of 3 players
 
 ## 📅 At a glance
 
-| | | |
+| | |
 |---|---|---|
 | **Event** | Cube Initiative Challenge |
 | **Date** | Saturday 5 and Sunday 6 December 2026 |
@@ -31,27 +31,22 @@ Please arrive on time, especially on Saturday for check-in.
 
 ## 🎲 Format
 
-- **4 rounds.**
-- 1 round = 1 draft.
-- ** Rounds 1 to 3 are Swiss, round 4 is the final round.
+- **4 rounds, 1 round = 1 draft.** Rounds 1 to 3 are Swiss, round 4 is the final round.
 - **Team draft:** two teams per pod. Every player plays all three opponents, so each draft has 9 matches. The first team to win 5 matches wins the draft.
 - **All matches are best of three.**
-- **Cubes:** All drafts are done with the [LSV Power Max Cube]([url](https://cubecobra.com/cube/list/PowerLSV)).
+- **Cubes:** All drafts are done with the [LSV Power Max Cube](https://cubecobra.com/cube/list/PowerLSV).
 - Every round starts with about 80 minutes of drafting and deck building, followed by the matches.
 - For everything else, see [tournament rules]({{ '/rules/' | relative_url }}).
-
+- 
 ## 🏆 Prizes
 
-There will be no cash prizes. Instead, expect real, physical prizes for the top 3 teams and a little souvenir for every player. On top of that, there will be a raffle 🎟️ and a set of achievem[...]
+There will be no cash prizes. Instead, expect real, physical prizes for the top 3 teams and a little souvenir for every player. On top of that, there will be a raffle 🎟️ and a set of achievements to go after, so you don't need to win the whole thing to take something home. All entry fees go straight back into the event. We'll reveal more closer to the day, so stay tuned!
 
 ## ✍️ Registration and payment
 
-1. **Register your team** with the form above. One person per team, the captain, fills it in. Registration closes on **21 November 2026**. If we are full, you go on the waitlist.
-
-By registering, you agree to our [privacy notice]({{ '/privacy/' | relative_url }}).
-
+1. **Register your team** with the form above. One person per team, the captain, fills it in. Registration closes on **21 November 2026**. If we are full, you go on the waitlist. By registering, you agree to our [privacy notice]({{ '/privacy/' | relative_url }}).
 2. **Every player needs a GuildGate account.** We run the tournament there.
-3. There are **3 different pricing tiers** for each player: 10 € regular entry, 5 € with a student discount, 15 € supporter tier if you want to support this and our next event
+3. There are **3 pricing tiers** for each player: 10 EUR regular entry, 5 EUR with a student discount and 15 EUR supporter tier if you want to support this and our next event.
 4. The **captain pays once for the whole team in cash**, either on the event date or in advance at a cube meetup in Berlin.
 
 ## 👑 Captains
@@ -82,7 +77,7 @@ We provide the cubes, sleeves and some dice. Please bring your own playmat, a wa
 See the [tournament rules]({{ '/rules/' | relative_url }}).
 
 **💬 Who do I ask if something is unclear?**
-Ask in our [event channel on Discord](https://discord.gg/your-general-chat-link){:target="_blank" rel="noopener"}, or email us at [email address].
+Ask in our [event channel on Discord](https://discord.gg/your-general-chat-link){:target="_blank" rel="noopener"}, or email us at berlin.cube.initiative@gmail.com.
 
 <p style="text-align:center; font-size:0.9em; margin-top:3rem;">
   <a href="{{ '/privacy/' | relative_url }}">Privacy</a> · <a href="{{ '/impressum/' | relative_url }}">Impressum</a>
