@@ -2,4 +2,21 @@
 ---
 
 @import "{{ site.theme }}";
-.page-header .btn { display: none; }
+
+.page-header .btn {
+  display: inline-block !important;
+  background: #1f6feb;
+  color: #fff;
+  padding: 0.75rem 1.1rem;
+  border-radius: 6px;
+  text-decoration: none;
+  font-weight: 600;
+}
+
+.page-header .btn:hover,
+.page-header .btn:focus,
+.page-header .btn:active {
+  color: #fff;
+  text-decoration: none;
+  background: #1859c9;
+}
