@@ -51,7 +51,7 @@ body {
   background: $dark-gray;
 
   background-image: linear-gradient(rgba(0,0,0,0.45), rgba(0,0,0,0.45)),
-                    url('{{ "/assets/banner.jpg" | relative_url }}');
+                    url('{{ "/assets/Banner.jpg" | relative_url }}');
   background-size: cover;
   background-position: center;
   
