@@ -16,6 +16,19 @@ $base-font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helve
 $heading-font-weight: 700;
 $body-font-weight: 400;
 
+/* more conservative: only hide GitHub links inside header elements */
+header a[href*="github.com"],
+.site-header a[href*="github.com"],
+.topbar a[href*="github.com"] {
+  display: none !important;
+}
+
+/* hide the "X is maintained by X" line in the footer */
+.site-footer p:first-child {
+  display: none !important;
+}
+
+
 html, body {
   font-family: $base-font-family;
   color: $dark-gray;
