@@ -21,6 +21,16 @@ Welcome! Join us for a competitive Vintage Cube team draft: 8 teams of 3 players
 
 Please arrive on time, especially on Saturday for check-in.
 
+## 🛡️ Everyone is welcome
+
+This event is for everyone, whatever your gender, sexuality, background, age, ability or experience level. Come as you are, play at your level and expect to be treated with respect.
+
+**House rules:** be respectful, use the name and pronouns people give you, keep trash talk friendly and help newcomers. Harassment, discrimination and unwanted attention are not tolerated, at the venue or on Discord.
+
+**If something happens,** tell any organizer or email berlin.cube.initiative@gmail.com. We take every report seriously and handle it discreetly. We may talk to the people involved, change a seat or pairing, or ask someone to leave without a refund.
+
+Need anything to make the weekend work for you? Email us and we will do our best.
+
 ## 📍 Getting there
 
 **Hedwig Dohm Haus, Ziegelstr. 4, 10117 Berlin**
