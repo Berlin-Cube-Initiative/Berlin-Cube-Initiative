@@ -14,7 +14,7 @@ Welcome! Join us for a competitive Vintage Cube team draft: 8 teams of 3 players
 | **Hours** | 8:30 registration on Saturday, 9:00 start on both days |
 | **Location** | Hedwig Dohm Haus, Ziegelstr. 4, 10117 Berlin |
 | **Teams** | 8 teams of 3 players (24 players) |
-| **Entry fee** | 5-15 EUR per player, paid in advance, student discount available |
+| **Entry fee** | 5 EUR student, 10 EUR regular or 15 EUR supporter per player. The captain pays in cash for the whole team |
 | **Registration deadline** | 21 November 2026 (waitlist if we are full) |
 | **Software** | [GuildGate](https://guildgate.app/), every player needs an account |
 
@@ -48,7 +48,7 @@ There will be no cash prizes. Instead, expect real, physical prizes for the top 
 1. **Register your team** with the form above. One person per team, the captain, fills it in. Registration closes on **21 November 2026**. If we are full, you go on the waitlist.
 2. **Every player needs a GuildGate account.** We run the tournament there.
 3. There are **3 different pricing tiers** for each player: 10 € regular entry, 5 € with a student discount, 15 € supporter tier if you want to support this and our next event
-4. The **captain pays once for the whole team in cash**, either on the event date or in advance at a cube meetup in Berlin. We will send payment details by email after you register.
+4. The **captain pays once for the whole team in cash**, either on the event date or in advance at a cube meetup in Berlin.
 
 ## 👑 Captains
 
@@ -82,7 +82,19 @@ Ask in our [event channel on Discord](https://discord.gg/your-general-chat-link)
 
 ## 🔒 Privacy
 
-We store names and email addresses only to organize this event.
+**Who is responsible:** Sven Lutz, contact: berlin.cube.initiative@gmail.com (address see Impressum).
+
+**What we collect:** When you register, we collect the details you enter in the form: team name, player names, the captain's Discord handle or phone number, city, email address and any notes you add. Captains: please tell your teammates that their names are passed on to us.
+
+**Why:** Only to organize this event, such as confirming spots, managing the waitlist and contacting you with event information. The legal basis is your consent (Art. 6 (1) a GDPR), which you give with the checkbox in the form. You can withdraw it at any time by email.
+
+**Where it is stored:** In Google Forms and Google Sheets. Only the organizers have access. Google may process data outside the EU, including in the USA.
+
+**How long:** We delete all registration data [30 days] after the event.
+
+**Other services:** You create your own GuildGate account, and Discord and GuildGate have their own privacy policies. This website is hosted on GitHub Pages, which may log visitors' IP addresses for technical reasons.
+
+**Your rights:** You can ask us for access to your data, correction, deletion or restriction of processing, and you can object to processing. You also have the right to complain to a data protection authority, in Berlin the Berliner Beauftragte für Datenschutz und Informationsfreiheit.
 
 ## Impressum
 
