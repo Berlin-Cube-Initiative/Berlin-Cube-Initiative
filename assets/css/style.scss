@@ -1,0 +1,242 @@
+---
+---
+
+// Berlin Cube Initiative: dusk lavender stylesheet
+// Dark, refined, soft corners, system fonts only (no font files, nothing loaded from other sites).
+
+// Colors
+$bg: #1F1D2E;          // page
+$surface: #292740;     // panels, code
+$line: #3A3757;        // hairlines
+$text: #EEEBFA;
+$muted: #A9A5C8;
+$accent: #C4B5FD;      // lavender accent: links, buttons
+$accent-strong: #D8CEFF; // hover, highlights
+$on-accent: #1F1D2E;   // text on lavender buttons
+
+// Shape and type
+$radius: 12px;
+$radius-small: 10px;
+$font: ui-rounded, "SF Pro Rounded", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif;
+
+@import "{{ site.theme }}";
+
+// ---------- Base ----------
+html {
+  color-scheme: dark;
+}
+
+html,
+body {
+  background: $bg;
+}
+
+body {
+  font-family: $font;
+  color: $text;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+::selection {
+  background: $accent;
+  color: $on-accent;
+}
+
+// ---------- Header: the flyer as background image ----------
+.page-header {
+  position: relative;
+  overflow: hidden;
+  width: 100%;
+  padding: 0;
+  // Set this to your image's width / height (A4 portrait is about 1 / 1.414)
+  aspect-ratio: 1 / 1.414;
+  max-height: 90vh;
+  background-color: $bg;
+  background-image: url('../flyer.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+  border-bottom: 1px solid $line;
+}
+
+// Keep the title and tagline for screen readers and search engines, but hide them visually
+.page-header .project-name,
+.page-header .project-tagline {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  clip: rect(0 0 0 0);
+  white-space: nowrap;
+}
+
+// Hide GitHub links the theme adds to the header
+.page-header a[href*="github.com"] {
+  display: none !important;
+}
+
+// ---------- Content ----------
+.main-content {
+  max-width: 50rem;
+  padding: 2.5rem 1.25rem 3rem;
+  color: $text;
+  font-size: 1.05rem;
+  line-height: 1.7;
+}
+
+@media (min-width: 42em) {
+  .main-content {
+    padding: 3rem 2rem 3.5rem;
+  }
+}
+
+.main-content h1,
+.main-content h2,
+.main-content h3,
+.main-content h4 {
+  font-family: $font;
+  font-weight: 600;
+  letter-spacing: -0.01em;
+  line-height: 1.25;
+  color: $text;
+}
+
+.main-content h1 {
+  margin-top: 0;
+  font-size: 1.9rem;
+}
+
+.main-content h2 {
+  margin-top: 2.75rem;
+  margin-bottom: 1rem;
+  padding-bottom: 0.5rem;
+  font-size: 1.45rem;
+  border-bottom: 1px solid $line;
+}
+
+.main-content h3 {
+  font-size: 1.15rem;
+  color: $accent;
+}
+
+.main-content strong {
+  color: $text;
+  font-weight: 600;
+}
+
+.main-content a {
+  color: $accent;
+  text-decoration: underline;
+  text-decoration-color: rgba($accent, 0.4);
+  text-underline-offset: 3px;
+}
+
+.main-content a:hover {
+  color: $accent-strong;
+  text-decoration-color: $accent-strong;
+}
+
+.main-content a:focus-visible,
+.main-content .btn:focus-visible {
+  outline: 3px solid $accent-strong;
+  outline-offset: 3px;
+}
+
+.main-content li::marker {
+  color: $accent;
+}
+
+.main-content hr {
+  border-color: $line;
+}
+
+.main-content blockquote {
+  margin-left: 0;
+  padding: 0.5rem 1rem;
+  background: $surface;
+  color: $text;
+  border-left: 0.25rem solid $accent;
+  border-radius: 0;
+}
+
+.main-content :not(pre) > code {
+  background: $surface;
+  color: $accent;
+  border-radius: 6px;
+}
+
+// ---------- Buttons ----------
+.main-content .btn {
+  display: inline-block;
+  margin: 0.5rem 0 1rem;
+  padding: 0.8rem 1.5rem;
+  background: $accent;
+  color: $on-accent;
+  font-family: $font;
+  font-size: 1rem;
+  font-weight: 600;
+  text-decoration: none;
+  border: 0;
+  border-radius: $radius-small;
+  transition: background 0.15s;
+}
+
+.main-content .btn:hover,
+.main-content .btn:focus {
+  background: $accent-strong;
+  color: $on-accent;
+}
+
+// ---------- Tables ("At a glance") ----------
+.main-content table {
+  width: 100%;
+  margin: 1.5rem 0;
+  border-collapse: collapse;
+  background: transparent;
+}
+
+.main-content table tr,
+.main-content table th,
+.main-content table td {
+  background: transparent;
+}
+
+.main-content table th,
+.main-content table td {
+  padding: 0.75rem 0.5rem;
+  border: 0;
+  border-bottom: 1px solid $line;
+}
+
+.main-content table td:first-child,
+.main-content table th:first-child {
+  width: 10rem;
+  color: $muted;
+  font-size: 0.95em;
+  font-weight: 400;
+}
+
+.main-content table td:first-child strong {
+  color: inherit;
+  font-weight: 400;
+}
+
+// Hide the empty header row of the table
+.main-content thead:has(th:empty) {
+  display: none;
+}
+
+// ---------- Footer ----------
+.site-footer {
+  border-top: 1px solid $line;
+}
+
+.site-footer-owner {
+  display: none !important;
+}
+
+.site-footer-credits {
+  color: $muted;
+  font-size: 0.85rem;
+}
