@@ -14,8 +14,6 @@
 
 ## At a glance
 
-| | |
-|---|---|
 | **Date** | Saturday 5 and Sunday 6 December 2026 |
 | **Location** | [Hedwig Dohm Haus, Ziegelstr. 4, 10117 Berlin](https://www.google.com/maps/search/?api=1&query=Hedwig+Dohm+Haus+Ziegelstr.+4+10117+Berlin){:target="_blank" rel="noopener"} |
 | **Hours** | Doors: 8.30AM / Start: 9AM |
