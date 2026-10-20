@@ -327,3 +327,12 @@ body {
     width: 6.5rem;
   }
 }
+
+.main-content h2 + table {
+  margin-top: 0;
+}
+
+.main-content table td,
+.main-content table th {
+  vertical-align: top;
+}
