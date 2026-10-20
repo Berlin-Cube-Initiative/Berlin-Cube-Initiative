@@ -52,9 +52,9 @@ Each team has a captain. The captain makes sure that:
 
 This event is for everyone, whatever your gender, sexuality, background, age, ability or experience level. Come as you are, play at your level and expect to be treated with respect.
 
-**House rules:** be respectful, use the name and pronouns people give you, keep trash talk friendly and help newcomers. Harassment, discrimination and unwanted attention are not tolerated, at the [...]
+**House rules:** be respectful, use the name and pronouns people give you, keep trash talk friendly and help newcomers. Harassment, discrimination and unwanted attention are not tolerated, at the venue or on Discord.
 
-**If something happened,** or you feel unsafe or uncomfortable, tell any organizer or email berlin.cube.initiative@gmail.com. We take every report seriously and handle it discreetly. We may talk t[...]
+**If something happened,** or you feel unsafe or uncomfortable, tell any organizer or email berlin.cube.initiative@gmail.com. We take every report seriously and handle it discreetly. We may talk to the people involved, change a seat or pairing, or ask someone to leave without a refund.
 
 Need anything to make the weekend work for you? Email us and we will do our best.
   
@@ -76,7 +76,7 @@ Please email us as soon as possible at berlin.cube.initiative@gmail.com. Your sp
 - For everything else, see [tournament rules]({{ '/rules/' | relative_url }}).
 
 **What prizes can I win?**
-There will be no cash prizes. Instead, expect real, physical prizes for the top 3 teams and a little souvenir for every player. On top of that, there will be a raffle and a set of achievements or [...]
+There will be no cash prizes. Instead, expect real, physical prizes for the top 3 teams and a little souvenir for every player. On top of that, there will be a raffle and a set of achievements or event goodies.
 
 **Is food provided?**
 No. We don't provide food. There is a 45 minute lunch break each day, so plan your own lunch. Snacks and drinks to share are welcome.
