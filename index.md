@@ -67,7 +67,7 @@ Not at all! Join our Discord and head to the team-finding channel to meet other 
 **What if I need to cancel?**
 Please email us as soon as possible at berlin.cube.initiative@gmail.com. Your spot can then go to a team on the waitlist.
 
-**What format is this?***
+**What format is this?**
 
 - **4 rounds, 1 round = 1 draft.** Rounds 1 to 3 are Swiss, round 4 is the final round.
 - **Team draft:** two teams per pod. Every player plays all three opponents, so each draft has 9 matches. The first team to win 5 matches wins the draft.
