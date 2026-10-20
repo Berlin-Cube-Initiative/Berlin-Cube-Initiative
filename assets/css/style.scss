@@ -284,3 +284,46 @@ body {
   color: $muted;
   font-size: 0.85rem;
 }
+
+// ---------- Top section spacing (overrides) ----------
+.page-header .project-name {
+  font-size: clamp(2rem, 5vw, 3.25rem);
+  margin-top: 1.5rem;
+  margin-bottom: 0.4rem;
+  text-shadow: none;
+}
+
+.page-header .project-tagline {
+  font-size: clamp(1rem, 2vw, 1.3rem);
+  margin-bottom: 0;
+  opacity: 1;
+  text-shadow: none;
+}
+
+.main-content {
+  padding-top: 2rem;
+}
+
+.event-intro {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1.25rem;
+  margin-bottom: 0;
+}
+
+.event-intro p,
+.main-content .event-intro .btn {
+  margin: 0;
+}
+
+.main-content h2 {
+  margin-top: 2.75rem;
+}
+
+@media (max-width: 41.99em) {
+  .main-content table td:first-child,
+  .main-content table th:first-child {
+    width: 6.5rem;
+  }
+}
