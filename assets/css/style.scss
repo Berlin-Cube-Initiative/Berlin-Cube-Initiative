@@ -48,12 +48,10 @@ body {
   position: relative;
   overflow: hidden;
   width: 100%;
-  padding: clamp(2rem, 5vw, 5rem) 1rem;
-  min-height: clamp(220px, 32vw, 430px);
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  text-align: center;
+  padding: 0;
+  // Set this to your image's width / height (A4 portrait is about 1 / 1.414)
+  aspect-ratio: 2400/800;
+  max-height: 90vh;
   background-color: $bg;
   background-image: url('../banner.jpg');
   background-position: center;
@@ -62,35 +60,15 @@ body {
   border-bottom: 1px solid $line;
 }
 
-// Keep the title and tagline visible and centered above the banner
+// Keep the title and tagline for screen readers and search engines, but hide them visually
 .page-header .project-name,
 .page-header .project-tagline {
-  position: relative;
-  width: auto;
-  height: auto;
-  overflow: visible;
-  clip: auto;
-  white-space: normal;
-  display: block;
-  margin: 0 auto;
-  text-align: center;
-  z-index: 1;
-}
-
-.page-header .project-name {
-  font-size: clamp(2.8rem, 6vw, 5rem);
-  line-height: 1.05;
-  letter-spacing: -0.04em;
-  color: $text;
-  margin-bottom: 0.5rem;
-  text-shadow: 0 2px 18px rgba(0, 0, 0, 0.35);
-}
-
-.page-header .project-tagline {
-  font-size: clamp(1.1rem, 2.3vw, 1.8rem);
-  line-height: 1.35;
-  color: $muted;
-  text-shadow: 0 2px 10px rgba(0, 0, 0, 0.28);
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  clip: rect(0 0 0 0);
+  white-space: nowrap;
 }
 
 // Hide GitHub links the theme adds to the header
