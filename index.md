@@ -28,7 +28,7 @@ Please arrive on time, especially on Saturday for check-in.
 
 [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Hedwig+Dohm+Haus+Ziegelstr.+4+10117+Berlin)
 
-[Open the venue map](map.png){:target="_blank" rel="noopener"}
+[Open the Venue Map](map.png){:target="_blank" rel="noopener"}
 
 ## Registration and payment
 
