@@ -1,6 +1,9 @@
 <!-- # Cube Initiative Challenge #2
 ## December 5-6, 2026 / Team Trio Draft: Vintage Cube-->
 
+<link rel="icon" type="image/png" href="favicon.png">
+
+
 <div class="event-intro">
   <p>Welcome! Join us for a competitive Vintage Cube Team Trio Draft: 8 teams of 3 players, two days, four drafts, lots of great Magic.</p>
 
