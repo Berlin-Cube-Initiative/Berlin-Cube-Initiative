@@ -17,13 +17,13 @@
 | | |
 |---|---|
 | **Date** | Saturday 5 and Sunday 6 December 2026 |
-| **Location** | [Hedwig Dohm Haus, Ziegelstr. 4, 10117 Berlin](https://www.google.com/maps/search/?api=1&query=Hedwig+Dohm+Haus+Ziegelstr.+4+10117+Berlin)
+| **Location** | [Hedwig Dohm Haus, Ziegelstr. 4, 10117 Berlin](https://www.google.com/maps/search/?api=1&query=Hedwig+Dohm+Haus+Ziegelstr.+4+10117+Berlin){:target="_blank" rel="noopener"} |
 | **Hours** | Doors: 8.30AM / Start: 9AM |
 | **Entry fee** | 5 EUR student, 10 EUR regular or 15 EUR supporter per player |
-| **Cube selected** | [PowerLSV Cube](https://cubecobra.com/cube/list/PowerLSV) |
+| **Cube selected** | [PowerLSV Cube](https://cubecobra.com/cube/list/PowerLSV){:target="_blank" rel="noopener"} |
 | **Event structure** | 8 teams of 3 players each. We will play 4 drafts total: 3 drafts of Swiss + Finals/3rd place draft |
 | **Registration deadline** | 21 November 2026 (waitlist if we are full) |
-| **Software** | [GuildGate](https://guildgate.app/), every player needs an account |
+| **Software** | [GuildGate](https://guildgate.app/){:target="_blank" rel="noopener"}, every player needs an account |
 
 Please arrive on time, especially on Saturday for check-in.
 
@@ -31,7 +31,7 @@ Please arrive on time, especially on Saturday for check-in.
 
 **Hedwig Dohm Haus, Ziegelstr. 4, 10117 Berlin**
 
-[Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Hedwig+Dohm+Haus+Ziegelstr.+4+10117+Berlin)
+[Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Hedwig+Dohm+Haus+Ziegelstr.+4+10117+Berlin){:target="_blank" rel="noopener"}
 
 [Open the Venue Map](map.png){:target="_blank" rel="noopener"}
 
@@ -55,9 +55,9 @@ Each team has a captain. The captain makes sure that:
 
 This event is for everyone, whatever your gender, sexuality, background, age, ability or experience level. Come as you are, play at your level and expect to be treated with respect.
 
-**House rules:** be respectful, use the name and pronouns people give you, keep trash talk friendly and help newcomers. Harassment, discrimination and unwanted attention are not tolerated, at the venue or on Discord.
+**House rules:** be respectful, use the name and pronouns people give you, keep trash talk friendly and help newcomers. Harassment, discrimination and unwanted attention are not tolerated, at the venue or online.
 
-**If something happened,** or you feel unsafe or uncomfortable, tell any organizer or email berlin.cube.initiative@gmail.com. We take every report seriously and handle it discreetly. We may talk to the people involved, change a seat or pairing, or ask someone to leave without a refund.
+**If something happened,** or you feel unsafe or uncomfortable, tell any organizer or email berlin.cube.initiative@gmail.com. We take every report seriously and handle it discreetly. We may talk to the people involved to make sure everyone feels safe.
 
 Need anything to make the weekend work for you? Email us and we will do our best.
   
@@ -75,11 +75,11 @@ Please email us as soon as possible at berlin.cube.initiative@gmail.com. Your sp
 - **4 rounds, 1 round = 1 draft.** Rounds 1 to 3 are Swiss, round 4 is the final round.
 - **Team draft:** two teams per pod. Every player plays all three opponents, so each draft has 9 matches. The first team to win 5 matches wins the draft.
 - **All matches are best of three.**
-- **Cubes:** All drafts are done with the [PowerLSV Cube](https://cubecobra.com/cube/list/PowerLSV).
+- **Cubes:** All drafts are done with the [PowerLSV Cube](https://cubecobra.com/cube/list/PowerLSV){:target="_blank" rel="noopener"}.
 - For everything else, see [tournament rules]({{ '/rules/' | relative_url }}).
 
 **What prizes can I win?**
-There will be no cash prizes. Instead, expect real, physical prizes for the top 3 teams and a little souvenir for every player. On top of that, there will be a raffle and a set of achievements or event goodies.
+There will be no cash prizes. Instead, expect real, physical prizes for the top 3 teams and a little souvenir for every player. On top of that, there will be a raffle and a set of achievements or even more surprises.
 
 **Is food provided?**
 No. We don't provide food. There is a 45 minute lunch break each day, so plan your own lunch. Snacks and drinks to share are welcome.
