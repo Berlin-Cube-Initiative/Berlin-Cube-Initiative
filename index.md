@@ -19,7 +19,7 @@
 | **Date** | Saturday 5 and Sunday 6 December 2026 |
 | **Location** | [Hedwig Dohm Haus, Ziegelstr. 4, 10117 Berlin](https://www.google.com/maps/search/?api=1&query=Hedwig+Dohm+Haus+Ziegelstr.+4+10117+Berlin){:target="_blank" rel="noopener"} |
 | **Hours** | Doors: 8.30AM / Start: 9AM |
-| **Entry fee** | 5 EUR student, 10 EUR regular or 15 EUR supporter per player |
+| **Entry fee** | 10 EUR regular, 5 EUR student or 15 EUR supporter per player |
 | **Cube selected** | [PowerLSV Cube](https://cubecobra.com/cube/list/PowerLSV){:target="_blank" rel="noopener"} |
 | **Event structure** | 8 teams of 3 players each. We will play 4 drafts total: 3 drafts of Swiss + Finals/3rd place draft |
 | **Registration deadline** | 21 November 2026 (waitlist if we are full) |
