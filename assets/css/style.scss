@@ -105,7 +105,6 @@ body {
   color: $text;
   font-size: 1.05rem;
   line-height: 1.7;
-  text-align: center;
 }
 
 @media (min-width: 42em) {
@@ -123,7 +122,6 @@ body {
   letter-spacing: -0.01em;
   line-height: 1.25;
   color: $text;
-  text-align: center;
 }
 
 .main-content h1 {
@@ -148,13 +146,6 @@ body {
   color: $accent;
 }
 
-.main-content p,
-.main-content li,
-.main-content ul,
-.main-content ol {
-  text-align: center;
-}
-
 .main-content strong {
   color: $text;
   font-weight: 600;
@@ -176,11 +167,6 @@ body {
 .main-content .btn:focus-visible {
   outline: 3px solid $accent-strong;
   outline-offset: 3px;
-}
-
-.main-content a[href*="discord"] {
-  display: inline-block;
-  text-align: center;
 }
 
 .main-content li::marker {
@@ -209,7 +195,7 @@ body {
 // ---------- Buttons ----------
 .main-content .btn {
   display: inline-block;
-  margin: 0.75rem auto 1.25rem;
+  margin: 0.5rem 0 1rem;
   padding: 0.8rem 1.5rem;
   background: $accent;
   color: $on-accent;
