@@ -48,10 +48,12 @@ body {
   position: relative;
   overflow: hidden;
   width: 100%;
-  padding: 0;
-  // Set this to your image's width / height (A4 portrait is about 1 / 1.414)
-  aspect-ratio: 2400/400;
-  max-height: 90vh;
+  padding: clamp(2rem, 5vw, 5rem) 1rem;
+  min-height: clamp(220px, 32vw, 430px);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
   background-color: $bg;
   background-image: url('../banner.jpg');
   background-position: center;
@@ -60,10 +62,10 @@ body {
   border-bottom: 1px solid $line;
 }
 
-// Keep the title and tagline for screen readers and search engines, but hide them visually
+// Keep the title and tagline visible and centered above the banner
 .page-header .project-name,
 .page-header .project-tagline {
-  position: static;
+  position: relative;
   width: auto;
   height: auto;
   overflow: visible;
@@ -72,20 +74,23 @@ body {
   display: block;
   margin: 0 auto;
   text-align: center;
+  z-index: 1;
 }
 
 .page-header .project-name {
-  font-size: clamp(2.6rem, 6vw, 5rem);
+  font-size: clamp(2.8rem, 6vw, 5rem);
   line-height: 1.05;
   letter-spacing: -0.04em;
   color: $text;
+  margin-bottom: 0.5rem;
+  text-shadow: 0 2px 18px rgba(0, 0, 0, 0.35);
 }
 
 .page-header .project-tagline {
-  font-size: clamp(1.1rem, 2.4vw, 1.8rem);
+  font-size: clamp(1.1rem, 2.3vw, 1.8rem);
   line-height: 1.35;
-  margin-top: 0.7rem;
   color: $muted;
+  text-shadow: 0 2px 10px rgba(0, 0, 0, 0.28);
 }
 
 // Hide GitHub links the theme adds to the header
@@ -100,6 +105,7 @@ body {
   color: $text;
   font-size: 1.05rem;
   line-height: 1.7;
+  text-align: center;
 }
 
 @media (min-width: 42em) {
@@ -117,6 +123,7 @@ body {
   letter-spacing: -0.01em;
   line-height: 1.25;
   color: $text;
+  text-align: center;
 }
 
 .main-content h1 {
@@ -125,16 +132,27 @@ body {
 }
 
 .main-content h2 {
-  margin-top: 2.75rem;
+  margin-top: 4rem;
   margin-bottom: 1rem;
   padding-bottom: 0.5rem;
   font-size: 1.45rem;
   border-bottom: 1px solid $line;
 }
 
+.main-content h2 + table {
+  margin-top: 1rem;
+}
+
 .main-content h3 {
   font-size: 1.15rem;
   color: $accent;
+}
+
+.main-content p,
+.main-content li,
+.main-content ul,
+.main-content ol {
+  text-align: center;
 }
 
 .main-content strong {
@@ -158,6 +176,11 @@ body {
 .main-content .btn:focus-visible {
   outline: 3px solid $accent-strong;
   outline-offset: 3px;
+}
+
+.main-content a[href*="discord"] {
+  display: inline-block;
+  text-align: center;
 }
 
 .main-content li::marker {
@@ -186,7 +209,7 @@ body {
 // ---------- Buttons ----------
 .main-content .btn {
   display: inline-block;
-  margin: 0.5rem 0 1rem;
+  margin: 0.75rem auto 1.25rem;
   padding: 0.8rem 1.5rem;
   background: $accent;
   color: $on-accent;
