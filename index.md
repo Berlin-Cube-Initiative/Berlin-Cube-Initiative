@@ -1,5 +1,5 @@
-# Cube Initiative Challenge #2
-## December 5-6, 2026 / Team Trio Draft: Vintage Cube
+<!-- # Cube Initiative Challenge #2
+## December 5-6, 2026 / Team Trio Draft: Vintage Cube-->
 
 Welcome! Join us for a competitive Vintage Cube Team Trio Draft: 8 teams of 3 players, two days, four drafts, lots of great Magic.
 
@@ -78,7 +78,6 @@ There will be no cash prizes. Instead, expect real, physical prizes for the top 
 
 **Is food provided?**
 No. We don't provide food. There is a 45 minute lunch break each day, so plan your own lunch. Snacks and drinks to share are welcome.
-<!-- TODO: add nearby shops or lunch options -->
 
 **What should I bring?**
 We provide the cubes, sleeves and some dice. Please bring your own playmat, a way to track life total and dice. You also need a phone or other device with your GuildGate account.
