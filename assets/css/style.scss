@@ -50,7 +50,7 @@ body {
   width: 100%;
   padding: 0;
   // Set this to your image's width / height (A4 portrait is about 1 / 1.414)
-  aspect-ratio: 2400/800;
+  aspect-ratio: 2400/400;
   max-height: 90vh;
   background-color: $bg;
   background-image: url('../banner.jpg');
@@ -108,15 +108,11 @@ body {
 }
 
 .main-content h2 {
-  margin-top: 4rem;
+  margin-top: 2.75rem;
   margin-bottom: 1rem;
   padding-bottom: 0.5rem;
   font-size: 1.45rem;
   border-bottom: 1px solid $line;
-}
-
-.main-content h2 + table {
-  margin-top: 1rem;
 }
 
 .main-content h3 {
