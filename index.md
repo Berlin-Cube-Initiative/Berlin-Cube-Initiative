@@ -34,7 +34,7 @@ Please arrive on time, especially on Saturday for check-in.
 
 ## Registration and payment
 
-1. **Register your team** with the form above. One person per team, the captain, fills it in. Registration closes on **21 November 2026**. If we are full, you go on the waitlist. By registering, y[...]
+1. **Register your team** with the form above. One person per team, the captain, fills it in. Registration closes on **21 November 2026**. If we are full, you go on the waitlist.
 2. **Every player needs a GuildGate account.** We run the tournament there.
 3. There are **3 pricing tiers** for each player: 10 EUR regular entry, 5 EUR with a student discount and 15 EUR supporter tier if you want to support this and our next event.
 4. The **captain pays once for the whole team in cash**, either on the event date or in advance at a cube meetup in Berlin.
