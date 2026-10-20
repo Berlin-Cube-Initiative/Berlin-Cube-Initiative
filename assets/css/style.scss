@@ -111,6 +111,20 @@ body {
   line-height: 1.7;
 }
 
+.event-intro {
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+.event-intro p {
+  margin: 0 auto 1rem;
+  max-width: 46rem;
+}
+
+.event-intro .btn {
+  margin: 0.5rem auto 1rem;
+}
+
 @media (min-width: 42em) {
   .main-content {
     padding: 3rem 2rem 3.5rem;
