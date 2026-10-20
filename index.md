@@ -4,9 +4,9 @@
 <div class="event-intro">
   <p>Welcome! Join us for a competitive Vintage Cube Team Trio Draft: 8 teams of 3 players, two days, four drafts, lots of great Magic.</p>
 
-  [REGISTER YOUR TEAM NOW](https://forms.gle/coQFSiNDdFchzTko7){: .btn target="_blank" rel="noopener"}
+  <a class="btn" href="https://forms.gle/coQFSiNDdFchzTko7" target="_blank" rel="noopener">REGISTER YOUR TEAM NOW</a>
 
-  <p>Questions or just want to chat about the event? [Join us on Discord](https://discord.gg/X9w7s2Vv9J){:target="_blank" rel="noopener"}</p>
+  <p>Questions or just want to chat about the event? <a href="https://discord.gg/X9w7s2Vv9J" target="_blank" rel="noopener">Join us on Discord</a></p>
 </div>
 
 ## At a glance
