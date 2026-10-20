@@ -50,7 +50,7 @@ body {
   width: 100%;
   padding: 0;
   // Set this to your image's width / height (A4 portrait is about 1 / 1.414)
-  aspect-ratio: 2400/800;
+  aspect-ratio: 2400/400;
   max-height: 90vh;
   background-color: $bg;
   background-image: url('../banner.jpg');
@@ -63,12 +63,29 @@ body {
 // Keep the title and tagline for screen readers and search engines, but hide them visually
 .page-header .project-name,
 .page-header .project-tagline {
-  position: absolute;
-  width: 1px;
-  height: 1px;
-  overflow: hidden;
-  clip: rect(0 0 0 0);
-  white-space: nowrap;
+  position: static;
+  width: auto;
+  height: auto;
+  overflow: visible;
+  clip: auto;
+  white-space: normal;
+  display: block;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.page-header .project-name {
+  font-size: clamp(2.6rem, 6vw, 5rem);
+  line-height: 1.05;
+  letter-spacing: -0.04em;
+  color: $text;
+}
+
+.page-header .project-tagline {
+  font-size: clamp(1.1rem, 2.4vw, 1.8rem);
+  line-height: 1.35;
+  margin-top: 0.7rem;
+  color: $muted;
 }
 
 // Hide GitHub links the theme adds to the header
