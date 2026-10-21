@@ -7,7 +7,7 @@ permalink: /privacy/
 
 [← Back to the event page]({{ '/' | relative_url }})
 
-**Who is responsible:** Sven Lutz, contact: berlin.cube.initiative@gmail.com (address see [Impressum]({{ '/impressum/' | relative_url }})).
+**Who is responsible:** Sven Lutz, address see [Impressum]({{ '/impressum/' | relative_url }})).
 
 **What we collect:** When you register, we collect the details you enter in the form: team name, player names, the captain's Discord handle or phone number, city, email address and any notes you add. Captains: please tell your teammates that their names are passed on to us.
 
