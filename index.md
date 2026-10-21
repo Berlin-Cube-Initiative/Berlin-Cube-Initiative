@@ -93,7 +93,7 @@ See the [tournament rules]({{ '/rules/' | relative_url }}).
 
 **Who do I ask if something is unclear?**
 <!--Ask in our [event channel on Discord](https://discord.gg/X9w7s2Vv9J){:target="_blank" rel="noopener"}, or email us at berlin.cube.initiative@gmail.com.-->
-<!--Ask in our [event channel on Discord](https://discord.gg/X9w7s2Vv9J){:target="_blank" rel="noopener"}.-->
+Ask in our [event channel on Discord](https://discord.gg/X9w7s2Vv9J){:target="_blank" rel="noopener"}.
 <p style="text-align:center; font-size:0.9em; margin-top:3rem;">
   <a href="{{ '/privacy/' | relative_url }}">Privacy</a> · <a href="{{ '/impressum/' | relative_url }}">Impressum</a>
 </p>
