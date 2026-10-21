@@ -55,7 +55,8 @@ This event is for everyone, whatever your gender, sexuality, background, age, ab
 
 **House rules:** be respectful, use the name and pronouns people give you, keep trash talk friendly and help newcomers. Harassment, discrimination and unwanted attention are not tolerated, at the venue or online.
 
-**If something happened,** or you feel unsafe or uncomfortable, tell any organizer or email berlin.cube.initiative@gmail.com. We take every report seriously and handle it discreetly. We may talk to the people involved to make sure everyone feels safe.
+**If something happened,** or you feel unsafe or uncomfortable, tell any organizer immediately. We take every report seriously and handle it discreetly. We may talk to the people involved to make sure everyone feels safe.
+<!--**If something happened,** or you feel unsafe or uncomfortable, tell any organizer or email berlin.cube.initiative@gmail.com. We take every report seriously and handle it discreetly. We may talk to the people involved to make sure everyone feels safe.-->
 
 Need anything to make the weekend work for you? Email us and we will do our best.
   
@@ -66,7 +67,9 @@ Need anything to make the weekend work for you? Email us and we will do our best
 Not at all! Join our Discord and head to the team-finding channel to meet other players looking for teammates: [Find a team on Discord](https://discord.gg/gcKY4UhXcK){:target="_blank" rel="noopener"}
 
 **What if I need to cancel?**
-Please email us as soon as possible at berlin.cube.initiative@gmail.com. Your spot can then go to a team on the waitlist.
+Please tell us as soon as possible. Your spot can then go to a team on the waitlist.
+<!-- **What if I need to cancel?**
+Please email us as soon as possible at berlin.cube.initiative@gmail.com. Your spot can then go to a team on the waitlist.-->
 
 **What format is this?**
 
