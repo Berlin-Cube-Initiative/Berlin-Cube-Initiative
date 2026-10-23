@@ -14,7 +14,7 @@ Sven Lutz
 Bülowstraße 51  
 10783 Berlin  
 Germany  
-Contact: svlutz@gmail.com
+Contact: berlin.cube.initiative@gmail.com
 
 Responsible for content according to § 18 (2) MStV:  
 Sven Lutz, address as above
