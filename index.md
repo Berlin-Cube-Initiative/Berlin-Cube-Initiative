@@ -55,8 +55,7 @@ This event is for everyone, whatever your gender, sexuality, background, age, ab
 
 **House rules:** be respectful, use the name and pronouns people give you, keep trash talk friendly and help newcomers. Harassment, discrimination and unwanted attention are not tolerated, at the venue or online.
 
-**If something happened,** or you feel unsafe or uncomfortable, tell any organizer immediately. We take every report seriously and handle it discreetly. We may talk to the people involved to make sure everyone feels safe.
-<!--**If something happened,** or you feel unsafe or uncomfortable, tell any organizer or email berlin.cube.initiative@gmail.com. We take every report seriously and handle it discreetly. We may talk to the people involved to make sure everyone feels safe.-->
+If something happened,** or you feel unsafe or uncomfortable, tell any organizer or email berlin.cube.initiative@gmail.com. We take every report seriously and handle it discreetly. We may talk to the people involved to make sure everyone feels safe.
 
 Need anything to make the weekend work for you? Email us and we will do our best.
   
@@ -67,8 +66,6 @@ Need anything to make the weekend work for you? Email us and we will do our best
 Not at all! Join our Discord and head to the team-finding channel to meet other players looking for teammates: [Find a team on Discord](https://discord.gg/gcKY4UhXcK){:target="_blank" rel="noopener"}
 
 **What if I need to cancel?**
-Please tell us as soon as possible. Your spot can then go to a team on the waitlist.
-<!-- **What if I need to cancel?**
 Please email us as soon as possible at berlin.cube.initiative@gmail.com. Your spot can then go to a team on the waitlist.-->
 
 **What format is this?**
@@ -92,8 +89,8 @@ We provide the cubes, sleeves and some dice. Please bring your own playmat, a wa
 See the [tournament rules]({{ '/rules/' | relative_url }}).
 
 **Who do I ask if something is unclear?**
-<!--Ask in our [event channel on Discord](https://discord.gg/X9w7s2Vv9J){:target="_blank" rel="noopener"}, or email us at berlin.cube.initiative@gmail.com.-->
-Ask in our [event channel on Discord](https://discord.gg/X9w7s2Vv9J){:target="_blank" rel="noopener"}.
+Ask in our [event channel on Discord](https://discord.gg/X9w7s2Vv9J){:target="_blank" rel="noopener"}, or email us at berlin.cube.initiative@gmail.com.
+
 <p style="text-align:center; font-size:0.9em; margin-top:3rem;">
   <a href="{{ '/privacy/' | relative_url }}">Privacy</a> · <a href="{{ '/impressum/' | relative_url }}">Impressum</a>
 </p>
